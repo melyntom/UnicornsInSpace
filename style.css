@@ -1,0 +1,15 @@
+body {
+    background: black;
+    color: #42f492;
+    font-family: "Orbitron", sans-serif;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+.unicorns {
+    color: #c6fffe;
+    font-family: "Cinzel Decorative", cursive;
+}
