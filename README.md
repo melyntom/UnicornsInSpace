@@ -1,1 +1,5 @@
-# unicornsInSpace
+# Unicorns In Space
+
+## an Interative Adventure Game
+
+### About Unicorns in Space
