@@ -4,12 +4,46 @@ body {
     font-family: "Orbitron", sans-serif;
 }
 
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    color: #00ffff;
+    font-size: 30px;
+}
+
+h3 {
+    color: #a100ff;
+    font-size: 26px;
+}
+
 .center {
     text-align: center;
     margin: auto;
 }
 
+.choices {
+    color: #c49fea;
+    margin-top: 30px;
+}
+
+.container {
+    margin: 30px;
+}
+
+.invite {
+    color: #9fdcea;
+    font-size: 20px;
+    font-family: "IM Fell Great Primer SC", serif;
+}
+
+.space {
+    color: #7b00ff;
+    font-family: "Fredericka the Great", cursive;
+}
+
 .unicorns {
     color: #c6fffe;
-    font-family: "Cinzel Decorative", cursive;
+    font-family: "Great Vibes", cursive;
 }
