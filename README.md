@@ -1,5 +1,5 @@
 # Unicorns In Space
 
-## an Interative Adventure Game
+an Interative Adventure Game
 
-### About Unicorns in Space
+About Unicorns in Space
