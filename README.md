@@ -1,5 +1,3 @@
 # Unicorns In Space
 
-About unicorns in space
-
-(and potatoes.)
+About unicorns in space (and potatoes).
