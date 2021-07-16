@@ -1,7 +1,5 @@
 # Unicorns In Space
 
-an Interative Adventure Game
+About unicorns in space
 
-About Unicorns in Space
-
-(and potatos)
+(and potatoes.)
