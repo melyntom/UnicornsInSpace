@@ -2,4 +2,4 @@
 
 About unicorns in space (and potatoes).
 
-Mission Bit program exercise
+Mission Bit programming exercise
