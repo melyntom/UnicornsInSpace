@@ -1,5 +1,3 @@
 # Unicorns In Space
-
-About unicorns in space (and potatoes).
-
-Mission Bit programming exercise
+Simple "Choose Your Own Adventure" (CYOA) using HTML links - Mission Bit programming exercise  
+About unicorns in space (and potatoes)
